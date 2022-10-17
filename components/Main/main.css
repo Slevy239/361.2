@@ -1,0 +1,15 @@
+/* .right {
+    float: right;
+}
+
+.left {
+    float: left;
+} */
+
+.li {
+    display: inline;
+    float: left;
+}
+.list-group-item{
+    list-style: none;
+}
